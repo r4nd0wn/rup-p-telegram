@@ -1,0 +1,30 @@
+{
+  "name": "rup-p-telegram",
+  "version": "1.0.0",
+  "description": "rup-p for telegram",
+  "main": "./source/app.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4nd0wn/rup-p-telegram.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "rup",
+    "uptime"
+  ],
+  "author": "Jonas Bachmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r4nd0wn/rup-p-telegram/issues"
+  },
+  "homepage": "https://github.com/r4nd0wn/rup-p-telegram#readme"
+}
